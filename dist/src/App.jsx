@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import bookLogo from './assets/books.png'
-import { Home, About, Login, Register} from './pages'
+import { Home, Login, Register} from './pages'
 import { Routes, Route} from 'react-router-dom'
 import Navbar from './components/Navbar'
 import SingleBook from './pages/SingleBook'
